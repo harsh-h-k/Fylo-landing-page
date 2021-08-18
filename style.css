@@ -343,6 +343,9 @@ nav{
 }
 
 .header-menu ul li a{
+    cursor : pointer ;
+    text-decoration : none ;
+    color: black ;
     font-size: 14px;
 }
 
